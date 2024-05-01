@@ -1,0 +1,13 @@
+1 = Changed the hardness of ( Dazzlediamond ore )
+2 =  Changed the hardness of ( Elidium ore )
+3 = Added new recepts for the all ore blocks. Blocks can now be changed back to ingots / gems.
+4 = Fixed multi texure bugs.
+5 = Fixed a crash on alarms while loading a custom juke box.
+6 = Terraflux have no longer a glow.
+7 = Terraflux no longer have a bio.
+8 = Changed the colors of the names of the creative tabs.
+9 = Terraflux block no longer have a bio.
+10 = Ember crystal ore / block no longer have a bio.
+11 = Ember crystal no longer have a glow.
+12 = Added 21 new music numbers to the mod.
+13 = Added a new Red disc texure to the new music disc's.
